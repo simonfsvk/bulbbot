@@ -58,6 +58,8 @@
 
   "global_premium_only": "Toto je prémiový príkaz. Staň sa patreonom a získaj prístup ku tomuto príkazu, a ku dalším prémiovým funkciam na <https://www.patreon.com/bulbbot>",
 
+  "event_interaction_dm_command": "{{emote_warn}} /príkazy nemôžete používať v súkromných správach.",
+
   "event_message_args_unexpected": "{{emote_warn}} Neočakávaný argument {{argument}}. Očakával som `{{arg_expected}}` dostal som `{{arg_provided}}`.\n{{emote_wrench}} **Správne použitie:** {{usage}}",
   "event_message_args_missing": "{{emote_warn}} Chýbajúci argument `{{argument}}`. Očakával som `{{arg_expected}}`.\n**{{emote_wrench}} Správne použitie:** {{usage}}",
   "event_message_args_missing_list": "{{emote_warn}} Neočakavaný argument `{{argument}}`. Očakával som `{{arg_expected}}`.\n{{emote_wrench}} **Správne argumenty:** {{argument_list}}",
